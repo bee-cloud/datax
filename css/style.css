@@ -851,7 +851,7 @@ form label {
 }
 
 .feature-image {
-  width: 128%;
+  width: 100%;
 }
 @media screen and (max-width: 768px) {
   .feature-image {
